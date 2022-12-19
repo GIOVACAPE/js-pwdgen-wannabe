@@ -2,14 +2,16 @@ alert('Buongiorno Utente');
 
 // INIZIO --------------------------
 
-alert('Buongiorno Utente');
-const Nome = prompt('qual è il tuo nome?');
-console.log(Nome)
+
+
 
 
 
 
 // 1. Chiedi all'utente il suo nome
+
+const Nome = prompt('qual è il tuo nome?');
+console.log(Nome)
 
 
 

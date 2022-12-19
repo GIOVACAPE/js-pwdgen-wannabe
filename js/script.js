@@ -1,6 +1,10 @@
-console.log('Init ok');
+alert('Buongiorno Utente');
 
 // INIZIO --------------------------
+
+alert('Buongiorno Utente');
+const Nome = prompt('qual è il tuo nome?');
+console.log(Nome)
 
 
 
@@ -27,3 +31,6 @@ console.log('Init ok');
 
 
 // FINE ------------------------------------------
+
+
+// con prompt prendamo il valore inserito dall'utente.
